@@ -234,5 +234,5 @@ This project is open-source and available for educational purposes.
 - Enable HTTPS in production
 - Regular database backups
 
-##Author <br>
+## Author <br>
 Omkar Barbade
