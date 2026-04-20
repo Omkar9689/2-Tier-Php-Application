@@ -234,13 +234,5 @@ This project is open-source and available for educational purposes.
 - Enable HTTPS in production
 - Regular database backups
 
-## 📞 Support
-
-For issues or questions:
-- Email: support@employeehub.com
-- Documentation: Check this README
-- Community: Create an issue on GitHub
-
----
-
-**Built with ❤️ for professional employee management**
+##Author
+Omkar Barbade
